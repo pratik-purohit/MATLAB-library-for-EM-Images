@@ -209,5 +209,5 @@ This MATLAB library consists of a collection of functions for analyzing Electron
      - `rad_avg`: Radially averaged spectrum.
     
      
-Contributors
-Pratik Purohit, Partha Mitra (CSHL) , Harald Hess (Janelia Research Campus, HHMI)
+### Contributors
+*Pratik Purohit, Partha Mitra (CSHL) , Harald Hess (Janelia Research Campus, HHMI)*
